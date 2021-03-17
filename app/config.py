@@ -1,0 +1,7 @@
+
+
+SECRET_KEY = 'ToPsEcReT@123'
+
+
+UPLOAD_FOLDER = './tmp'
+ALLOWED_EXTENSIONS = {'csv'}
